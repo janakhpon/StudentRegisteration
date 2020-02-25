@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body {
+    background-color: #80DEEA;
+}
+
+header {
+    background-color: #1abc9c ;
+    color: #ecf0f1 ;
+    height: 60px;
+}
+
+
+table {
+    border: 1px solid black;
+    border-style:outset;
+    background-color: #729fcf;
+    padding: 10px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: 5%;
+}
+
+
+
