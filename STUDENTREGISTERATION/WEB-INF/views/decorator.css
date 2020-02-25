@@ -1,0 +1,123 @@
+@charset "UTF-8";
+
+body {
+    background-color: #2c3e50;
+}
+
+header {
+    background-color: #1abc9c ;
+    color: #ecf0f1 ;
+    height: 60px;
+}
+h1 {
+    margin: auto;
+    width: 40%;
+    padding: 10px;         
+}
+h2 {
+    margin: auto;
+    font-family: Sesame;
+    font-size: 6em;
+    color: #3498db;       
+}
+p {
+    background-color: #9900ff;
+
+} 
+
+form {
+    display: inline-block;
+    padding-left: 10%;
+}
+footer {
+    background-color: #1A446C ;
+    color: #689DC1 ;
+    height: 50px;
+}
+footer h1 {
+    font-size: 1em;
+    margin: auto;
+    width: 20%;
+    padding: 10px;         
+}
+
+
+
+
+
+
+table {
+    border: 1px solid black;
+    border-style:outset;
+    background-color: #729fcf;
+    padding: 10px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: 5%;
+}
+
+
+
+td.cellEven {
+    background-color: #F6CECE;
+    color: black;
+    border: 2px solid black;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+td.cellOdd {
+    background-color: #CEF6F5;
+    color: black;
+    border: 2px solid black;
+    padding-left: 1em;
+    padding-right: 1em;
+
+}
+td{
+    width: 600px;
+    height: 40px;
+    font-family: Michroma;
+    font-size:15px;
+    color: #0000cc;
+
+}
+th{
+    height: 40px;
+    font-family: Michroma;
+    font-size:15px;
+    color: #0000cc;
+}
+select{
+    width: 200px;
+    height: 40px;
+    font-family: Michroma;
+    font-size:14px;
+    font-weight: bold;
+    color: #0000cc;
+}
+input{
+    width: 200px;
+    height: 40px;
+    font-family: Expansiva;
+    font-size:13px;
+    font-weight: bold;
+    color:#cc00cc;
+}
+
+a{
+    font-family: Roboto;
+    color:#3b007e;
+    font-size: 10px;
+    font-style: italic;
+}
+td.leftSide {
+    text-align: right;
+    padding-left: 1em;
+}
+
+td.rightSide {
+    padding-right: 1em;
+}
+
+
