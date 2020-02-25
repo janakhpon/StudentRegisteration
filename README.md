@@ -1,3 +1,2 @@
-# j2eesimplerest
+# JAVA EE BASE STUDENT REGISTERATION WEB APP
 
-#import to Eclipse web project
